@@ -3,4 +3,4 @@ pages_build_output_dir = "."
 
 [[kv_namespaces]]
 binding = "TOURNAMENT_KV"
-id = "YOUR_KV_NAMESPACE_ID"      # replace after creating KV namespace
+id = "c39cb859e30b467587b71bf619bd250a"      # replace after creating KV namespace
