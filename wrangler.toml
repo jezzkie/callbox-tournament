@@ -1,6 +1,6 @@
 name = "callbox-tournament"
 pages_build_output_dir = "."
 
-[[kv_namespaces]]
+[[TOURNAMENT_KV]]
 binding = "TOURNAMENT_KV"
 id = "c39cb859e30b467587b71bf619bd250a"      # replace after creating KV namespace
