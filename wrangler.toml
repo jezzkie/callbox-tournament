@@ -1,4 +1,4 @@
-"$schema" = "./node_modules/wrangler/config-schema.json"
+"$schema" = "callbox-tournament/state.js"
 name = "callbox-tournament"
 pages_build_output_dir = "."
 
