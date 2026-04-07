@@ -1,6 +1,8 @@
+"$schema" = "./node_modules/wrangler/config-schema.json"
 name = "callbox-tournament"
 pages_build_output_dir = "."
 
-[[TOURNAMENT_KV]]
+
+[[kv_namespaces]]
 binding = "TOURNAMENT_KV"
-id = "c39cb859e30b467587b71bf619bd250a"      # replace after creating KV namespace
+id = "c39cb859e30b467587b71bf619bd250a"
